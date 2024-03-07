@@ -1,2 +1,2 @@
-# Sepsis_Stratification
+# Sepsis Stratification
 Stratification of Sepsis patients (MIMIC Carevue)
